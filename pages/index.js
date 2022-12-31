@@ -30,7 +30,7 @@ export default function FirstPost() {
 
       <footer>
       <h2>
-        <Link href="/">Volver al Inicio</Link>
+        <a href="https://github.com/ManelWebDev" targe="_blank" >Visit Github</Link>
       </h2>
       </footer>
 
