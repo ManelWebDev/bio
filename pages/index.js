@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import Head from 'next/head';
 import Layout from '/components/layout';
+import Pfp from '/public/images/perfilwebdev_mini_cut.png';
 
 export default function FirstPost() {
   return (
@@ -15,7 +16,7 @@ export default function FirstPost() {
 <h2> </h2>    
     
       <div style={{ borderRadius: '50%', overflow: 'hidden', width: '128px', height: '128px' }}>
-  <Image src="/images/perfilwebdev_mini_cut.png" height={128} width={128} alt="Your Name"/>
+  <Image src={Pfp} height={128} width={128} alt="Profile Pic" placeholder='blur'/>
         </div>
 
 <h2>Manel Web Dev</h2>
