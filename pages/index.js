@@ -12,6 +12,8 @@ export default function FirstPost() {
 <title>Manel Web Dev</title>
 </Head>
 
+<h2> </h2>    
+    
       <div style={{ borderRadius: '50%', overflow: 'hidden', width: '128px', height: '128px' }}>
   <Image src="/images/perfilwebdev_mini_cut.png" height={128} width={128} alt="Your Name"/>
         </div>
