@@ -12,11 +12,11 @@ export default function FirstPost() {
 <title>Manel Web Dev</title>
 </Head>
 
-      <div style={{ borderRadius: '50%', overflow: 'hidden', width: '256px', height: '256px' }}>
-  <Image src="/images/perfilwebdev_mini_cut.png" height={256} width={256} alt="Your Name"/>
+      <div style={{ borderRadius: '50%', overflow: 'hidden', width: '128px', height: '128px' }}>
+  <Image src="/images/perfilwebdev_mini_cut.png" height={128} width={128} alt="Your Name"/>
         </div>
 
-<h1>Manel Web Dev</h1>
+<h2>Manel Web Dev</h2>
 
 <div>
 
