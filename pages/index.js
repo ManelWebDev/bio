@@ -12,7 +12,7 @@ export default function FirstPost() {
 <Head>
 <title>Manel Web Dev</title>
 </Head>
-
+<Body>
       <div style={{ borderRadius: '50%', overflow: 'hidden', width: '128px', height: '128px' }}>
   <Image src="/images/perfilwebdev_mini_cut.png" height={128} width={128} alt="Your Name"/>
         </div>
@@ -28,7 +28,7 @@ export default function FirstPost() {
 <p> I have some experience in Linux, C & html and started to explore Solana and Tezos programming models thought basic tutorials </p>
 
 </div>
-
+</Body>
       <footer>
       
         <p><a href="https://github.com/ManelWebDev" target="_blank" >Visit Github</a></p>
