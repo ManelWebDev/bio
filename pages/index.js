@@ -20,7 +20,7 @@ export default function FirstPost() {
 
 <div>
 
-<p> Hello, my name is Manel, I am sound and IT tecnician </p>
+<p> Hello, my name is Manel, I am sound and IT technician </p>
 
 <p> This 2023 I started my journey in Next.js and Web3 development </p>
 
