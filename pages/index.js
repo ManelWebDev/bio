@@ -31,6 +31,7 @@ export default function FirstPost() {
       <footer>
       
         <a href="https://github.com/ManelWebDev" target="_blank" >Visit Github</a>
+        <a href="https://linktr.ee/manelwebdev" target="_blank" >Return to Linktree</a>
       
       </footer>
 
